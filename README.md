@@ -8,7 +8,11 @@
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/hanpengbutt"/>
+<img
+  src="https://render.gitanimals.org/farms/hanpengbutt"
+  width="600"
+  height="300"
+/>
 </a>
 
 <!--
